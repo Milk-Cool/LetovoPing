@@ -1,6 +1,6 @@
 {
   "name": "letovoping",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Telegram bot that checks the status of Letovo websites (up/down; status code)",
   "main": "index.js",
   "scripts": {
