@@ -1,0 +1,26 @@
+{
+  "name": "letovoping",
+  "version": "0.1.0",
+  "description": "A Telegram bot that checks the status of Letovo websites (up/down; status code)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Milk-Cool/LetovoPing.git"
+  },
+  "keywords": [
+    "letovo",
+    "ping"
+  ],
+  "author": "Milk_Cool",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Milk-Cool/LetovoPing/issues"
+  },
+  "homepage": "https://github.com/Milk-Cool/LetovoPing#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}

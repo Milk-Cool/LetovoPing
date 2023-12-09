@@ -1,0 +1,50 @@
+[
+    {
+        "name": "ЛК student.letovo.ru",
+        "url": "https://student.letovo.ru"
+    },
+    {
+        "name": "ЛК s.letovo.ru",
+        "url": "https://s.letovo.ru"
+    },
+    {
+        "name": "Canvas LMS",
+        "url": "https://canvas.letovo.ru"
+    },
+    {
+        "name": "HelpDesk",
+        "url": "https://helpdesk.letovo.ru"
+    },
+    {
+        "name": "ELK (ToDoDo)",
+        "url": "https://elk.letovo.ru"
+    },
+    {
+        "name": "Сайт школы",
+        "url": "https://letovo.ru"
+    },
+    {
+        "name": "EJudge",
+        "url": "https://ejudge.letovo.ru/cgi-bin/new-client?contest_id=203114"
+    },
+    {
+        "name": "Яндекс.Почта",
+        "url": "https://mail.yandex.com"
+    },
+    {
+        "name": "Вход в почту login.letovo.ru",
+        "url": "https://login.letovo.ru/adfs/ls"
+    },
+    {
+        "name": "Запись на мероприятия",
+        "url": "https://pre.letovo.ru"
+    },
+    {
+        "name": "Летово Чат",
+        "url": "https://chat.letovo.ru"
+    },
+    {
+        "name": "Библиотека",
+        "url": "https://library.letovo.ru"
+    }
+]
